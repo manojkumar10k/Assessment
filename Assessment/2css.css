@@ -1,0 +1,25 @@
+.container
+{
+ background-color: rgb(225, 238, 233);
+ display: flex;
+}
+input
+{
+    margin: 3px;
+}
+
+
+
+h1{
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+button
+{
+    color: white;
+    background-color: rgb(29, 175, 29);
+    padding: 5px;
+    margin: 5px;
+    border: 0px;
+}
